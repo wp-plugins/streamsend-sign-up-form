@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Streamsend Plugin
+ * Plugin Name: StreamSend for WordPress - Official Plugin
  * Plugin URI: http://streamsend.com
  * Description: The Streamsend plugin allows you to easily add a signup form for your Streamsend list. 
  * Version: 1.0.1
