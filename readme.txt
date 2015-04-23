@@ -13,7 +13,12 @@ Quickly and easily add highly customizable sign-up forms to your WordPress websi
 
 Quickly and easily add highly customizable sign-up forms to your WordPress website.  Simply install the plugin and the setup page will guide you through the rest.  All you need is your StreamSned API login information to create your forms.
 
-•	Create unlimited number of forms, each subscribing to one or multiple StreamSend lists•	Easily create and style your form – no coding required•	Add a signup form to your WordPress sidebar using a widget or shortcode•	Add an opt-in message to your form•	Determine which lists should appear as “opt-in lists” on the form and which lists should remain be hidden•	Create and send welcome messages to members who join via your WordPress signup form
+* Create unlimited number of forms, each subscribing to one or multiple StreamSend lists
+* Easily create and style your form – no coding required
+* Add a signup form to your WordPress sidebar using a widget or shortcode
+* Add an opt-in message to your form
+* Determine which lists should appear as “opt-in lists” on the form and which lists should remain be hidden
+* Create and send welcome messages to members who join via your WordPress signup form
 
 
 == Installation ==
@@ -32,13 +37,7 @@ e.g.
 
 == Changelog ==
 
-== Arbitrary section ==
-
-== A brief Markdown Example ==
-
-Ordered list:
-
-Unordered list:
+== Other Notes ==
 
 * Create unlimited number of forms, each subscribing to one or multiple StreamSend lists
 * Easily create and style your form – no coding required
